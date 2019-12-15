@@ -1,0 +1,3 @@
+PokeIvysaurLeft 3 5
+PokeBulbasaurLeft 3 3
+PokeBulbasaurLeft 3 2

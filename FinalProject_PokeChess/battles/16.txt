@@ -1,0 +1,3 @@
+PokeBlastoiseLeft 5 3
+PokeSquirtleLeft 3 2
+PokeSquirtleLeft 3 4

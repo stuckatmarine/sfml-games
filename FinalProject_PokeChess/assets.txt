@@ -1,0 +1,211 @@
+Texture   TexExplode    images/fireRed/overworldTilesClear/ball.png
+Texture   TexRunDown    images/fireRed/overworldTilesClear/player_front.png              
+Texture   TexRunRight   images/fireRed/overworldTilesClear/player_right.png
+Texture   TexRunUp      images/fireRed/overworldTilesClear/player_back.png
+Texture   TexStandD     images/fireRed/overworldTilesClear/player_front.png              
+Texture   TexStandR     images/fireRed/overworldTilesClear/player_right.png
+Texture   TexStandU     images/fireRed/overworldTilesClear/player_back.png
+Texture   TexAtkDown    images/fireRed/overworldTilesClear/player_front.png 
+Texture   TexAtkRight   images/fireRed/overworldTilesClear/player_right.png
+Texture   TexAtkUp      images/fireRed/overworldTilesClear/player_back.png
+Texture   TexSwordUp    images/fireRed/overworldTilesClear/player_back.png
+Texture   TexSwordRight images/fireRed/overworldTilesClear/player_right.png
+Texture   TexGet1       images/tloz/get1.png
+Texture   TexGet2       images/tloz/get2.png
+Texture   TexRockTL     images/tloz/green/tile_rock_tl.png
+Texture   TexRockTM     images/tloz/green/tile_rock_tm.png
+Texture   TexRockTR     images/tloz/green/tile_rock_tr.png
+Texture   TexRockBL     images/tloz/green/tile_rock_bl.png
+Texture   TexRockBM     images/tloz/green/tile_rock_bm.png
+Texture   TexRockBR     images/tloz/green/tile_rock_br.png
+Texture   TexWaterTL    images/tloz/green/tile_water_tl.png
+Texture   TexWaterTM    images/tloz/green/tile_water_tm.png
+Texture   TexWaterTR    images/tloz/green/tile_water_tr.png
+Texture   TexWaterML    images/tloz/green/tile_water_ml.png
+Texture   TexWaterMM    images/tloz/green/tile_water_mm.png
+Texture   TexWaterMR    images/tloz/green/tile_water_mr.png
+Texture   TexWaterBL    images/tloz/green/tile_water_bl.png
+Texture   TexWaterBM    images/tloz/green/tile_water_bm.png
+Texture   TexWaterBR    images/tloz/green/tile_water_br.png
+Texture   TexBush       images/tloz/green/tile_bush.png
+Texture   TexBlack      images/tloz/tile_black.png
+Texture   TexKnight     images/tloz/knight.png
+Animation Explosion     TexExplode      3   30 
+Animation RunDown       TexRunDown      2   15   
+Animation RunRight      TexRunRight     2   15    
+Animation RunUp         TexRunUp        2   15
+Animation StandDown     TexStandD       2    0   
+Animation StandRight    TexStandR       2    0    
+Animation StandUp       TexStandU       2    0
+Animation Knight        TexKnight       2   10
+Animation AtkUp         TexAtkUp        2    0
+Animation AtkDown       TexAtkDown      2    0
+Animation AtkRight      TexAtkRight     2    0   
+Animation SwordUp       TexSwordUp      2    0
+Animation SwordRight    TexSwordRight   2    0
+Animation Black         TexBlack        1    0
+Animation RockTL        TexRockTL       1    0
+Animation RockTM        TexRockTM       1    0
+Animation RockTR        TexRockTR       1    0
+Animation RockBL        TexRockBL       1    0
+Animation RockBM        TexRockBM       1    0
+Animation RockBR        TexRockBR       1    0
+Animation WaterTL       TexWaterTL      1    0
+Animation WaterTM       TexWaterTM      1    0
+Animation WaterTR       TexWaterTR      1    0
+Animation WaterML       TexWaterML      1    0
+Animation WaterMM       TexWaterMM      1    0
+Animation WaterMR       TexWaterMR      1    0
+Animation WaterBL       TexWaterBL      1    0
+Animation WaterBM       TexWaterBM      1    0
+Animation WaterBR       TexWaterBR      1    0
+Animation Bush          TexBush         1    0
+Font      Arial      fonts/arial.ttf
+Font      Mario      fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
+Texture   TexUiRight    		images/fireRed/overworldTilesClear/ui_right_128.png
+Animation UiRight       		TexUiRight      		1    0
+Texture   TexBenchBoxDeselected images/fireRed/overworldTilesClear/ui_bench_box_deselected.png
+Animation UiBenchBoxDeselected  TexBenchBoxDeselected   1    0
+Texture   TexButton    			images/fireRed/overworldTilesClear/ui_button.png
+Animation UiButton    			TexButton    			1    0
+Texture   TexUiBot    			images/fireRed/overworldTilesClear/ui_bot.png
+Animation UiBot       			TexUiBot      			1    0
+Texture   TexCharmanderLeft     images/pokemon/charmander_left.png
+Animation PokeCharmanderLeft    TexCharmanderLeft    	2    15
+Texture   TexCharmanderBack     images/pokemon/charmander_back.png
+Animation PokeCharmanderBack	TexCharmanderBack    	2    15
+Texture   TexCharmanderFront    images/pokemon/charmander_front.png
+Animation PokeCharmanderFront   TexCharmanderFront    	2    15
+Texture   TexCharmeleonLeft     images/pokemon/charmeleon_left.png
+Animation PokeCharmeleonLeft    TexCharmeleonLeft    	2    15
+Texture   TexCharmeleonFront	images/pokemon/charmeleon_front.png
+Animation PokeCharmeleonFront   TexCharmeleonFront    	2    15
+Texture   TexCharmeleonBack     images/pokemon/charmeleon_back.png
+Animation PokeCharmeleonBack    TexCharmeleonBack    	2    15
+Texture   TexCharizardLeft		images/pokemon/charizard_left.png
+Animation PokeCharizardLeft		TexCharizardLeft    	2    15
+Texture   TexCharizardFront		images/pokemon/charizard_front.png
+Animation PokeCharizardFront	TexCharizardFront    	2    15
+Texture   TexCharizardBack     	images/pokemon/charizard_back.png
+Animation PokeCharizardBack    	TexCharizardBack    	2    15
+Texture   TexBulbasaurLeft     	images/pokemon/bulbasaur_left.png
+Animation PokeBulbasaurLeft    	TexBulbasaurLeft    	2    15
+Texture   TexBulbasaurBack     	images/pokemon/bulbasaur_back.png
+Animation PokeBulbasaurBack    	TexBulbasaurBack   		2    15
+Texture   TexBulbasaurFront     images/pokemon/bulbasaur_front.png
+Animation PokeBulbasaurFront    TexBulbasaurFront    	2    15
+Texture   TexIvysaurLeft     	images/pokemon/ivysaur_left.png
+Animation PokeIvysaurLeft      	TexIvysaurLeft		 	2    15
+Texture   TexIvysaurFront     	images/pokemon/ivysaur_front.png
+Animation PokeIvysaurFront      TexIvysaurFront		 	2    15
+Texture   TexIvysaurBack     	images/pokemon/ivysaur_back.png
+Animation PokeIvysaurBack      	TexIvysaurBack		 	2    15
+Texture   TexVenusaurLeft		images/pokemon/venusaur_left.png
+Animation PokeVenusaurLeft   	TexVenusaurLeft 	 	4    15
+Texture   TexVenusaurFront		images/pokemon/venusaur_front.png
+Animation PokeVenusaurFront  	TexVenusaurFront	 	4    15
+Texture   TexVenusaurBack		images/pokemon/venusaur_back.png
+Animation PokeVenusaurBack   	TexVenusaurBack 	 	4    15
+Texture   TexSquirtleLeft		images/pokemon/squirtle_left.png
+Animation PokeSquirtleLeft   	TexSquirtleLeft	 		2    15
+Texture   TexSquirtleFront		images/pokemon/squirtle_front.png
+Animation PokeSquirtleFront   	TexSquirtleFront 		2    15
+Texture   TexSquirtleBack		images/pokemon/squirtle_back.png
+Animation PokeSquirtleBack   	TexSquirtleBack	 		2    15
+Texture   TexWartortleLeft		images/pokemon/wartortle_left.png
+Animation PokeWartortleLeft   	TexWartortleLeft	 		2    15
+Texture   TexWartortleFront		images/pokemon/wartortle_front.png
+Animation PokeWartortleFront   	TexWartortleFront 		2    15
+Texture   TexWartortleBack		images/pokemon/wartortle_back.png
+Texture   TexBlastoiseLeft		images/pokemon/blastoise_left.png
+Animation PokeBlastoiseLeft   	TexBlastoiseLeft	 		2    15
+Texture   TexBlastoiseFront		images/pokemon/blastoise_front.png
+Animation PokeBlastoiseFront   	TexBlastoiseFront 		2    15
+Texture   TexBlastoiseBack		images/pokemon/blastoise_back.png
+Animation PokeBlastoiseBack   	TexBlastoiseBack	 		2    15
+Animation PokeWartortleBack   	TexWartortleBack	 		2    15
+Texture   TexMewtwoLeft			images/pokemon/mewtwo_left.png
+Animation PokeMewtwoLeft   		TexMewtwoLeft	 		2    15
+Texture   TexMewtwoFront		images/pokemon/mewtwo_front.png
+Animation PokeMewtwoFront   	TexMewtwoFront 		2    15
+Texture   TexMewtwoBack			images/pokemon/mewtwo_back.png
+Animation PokeMewtwoBack		TexMewtwoBack	 		2    15
+Texture   TexBattleBackground   images/battle/battle.png
+Animation BattleBackground		TexBattleBackground    	1    0
+Texture   TexBattleMenu      	images/battle/menu.png
+Animation BattleMenu			TexBattleMenu   1    0
+Texture   TexChatWindow      	images/fireRed/overworldTilesClear/chat_window.png
+Animation ChatBg            	TexChatWindow   1    0
+Texture   TexMenuBg            	images/fireRed/menu/menu_bg.png
+Animation MenuBg               	TexMenuBg       1    0
+Texture   TexTreeBushy      	images/fireRed/overworldTilesClear/tree_bushy.png
+Animation TreeBushy            	TexTreeBushy    1    0
+Texture   TexGym      			images/fireRed/overworldTilesClear/gym.png
+Animation Gym            		TexGym   		1    0
+Texture   TexCutTree      		images/fireRed/overworldTilesClear/cut_tree_static.png
+Animation CutTree            	TexCutTree   	1    0
+Texture   TexCutTreeAnim      	images/fireRed/overworldTilesClear/cut_tree.png
+Animation CutAnim            	TexCutTreeAnim  3    20
+Texture   TexBush      			images/fireRed/overworldTilesClear/bush.png
+Animation Bush            		TexBush   		1    0
+Texture   TexGrass      		images/fireRed/overworldTilesClear/grass.png
+Animation Grass            		TexGrass   		1    0
+Texture   TexCopLeft      		images/fireRed/npc/cop_left.png
+Animation CopLeft            	TexCopLeft   	2    20000
+Texture   TexManFront      		images/fireRed/npc/man_front.png
+Animation ManFront            	TexManFront   	2    20000
+Texture   TexGaryFront      	images/fireRed/npc/gary_front.png
+Animation GaryFront            	TexGaryFront   	2    20000
+Texture   TexGaryLeft      		images/fireRed/npc/gary_left.png
+Animation GaryLeft            	TexGaryLeft   	1    0
+Texture   TexCenter      		images/fireRed/overworldTilesClear/center.png
+Animation Center            	TexCenter   	1    0
+Texture   TexClear      		images/fireRed/overworldTilesClear/clear.png
+Animation Clear           	 	TexClear   		1    0
+Texture   TexWhite      		images/fireRed/overworldTilesClear/white_entrance.png
+Animation White            		TexWhite   		1    0
+Texture   TexEntrance      		images/fireRed/overworldTilesClear/dark_entrance.png
+Animation DarkEntrance          TexEntrance   		1    0
+Texture   TexRockBig      		images/fireRed/overworldTilesClear/cave_rock_big.png
+Animation RockBig            	TexRockBig   	1    0
+Texture   TexRock      			images/fireRed/overworldTilesClear/cave_rock_single.png
+Animation Rock            		TexRock   		1    0
+Texture   TexCaveFloor      	images/fireRed/overworldTilesClear/cave_floor.png
+Animation CaveFloor            	TexCaveFloor   	1    0
+Texture   TexCaveGrass      	images/fireRed/overworldTilesClear/cave_bush.png
+Animation CaveGrass           	TexCaveGrass   	1    0
+Texture   TexCaveVert      		images/fireRed/overworldTilesClear/cave_vert.png
+Animation CaveVert          	TexCaveVert   	1    0
+Texture   TexCaveHoriz      	images/fireRed/overworldTilesClear/cave_horiz.png
+Animation CaveHoriz            	TexCaveHoriz   	1    0
+Texture   TexHealthBar      	images/battle/healthBar.png
+Animation healthBar            	TexHealthBar   	1    0
+Texture   TexHealthHigh      	images/battle/healthHigh.png
+Animation healthHigh            TexHealthHigh   1    0
+Texture   TexHealthMed      	images/battle/healthMed.png
+Animation healthMed            	TexHealthMed   	1    0
+Texture   TexHealthLow      	images/battle/healthLow.png
+Animation healthLow            	TexHealthLow   	1    0
+Texture   TexVictory      		images/battle/victory.png
+Animation victory            	TexVictory   	1    0
+Texture   TexDefeat     		images/battle/defeat.png
+Animation defeat            	TexDefeat   	1    0
+Texture   TexMountain      		images/fireRed/overworldTilesClear/mountain.png
+Animation Mountain           	TexMountain   	1    0
+Texture   TexMountainSmall      images/fireRed/overworldTilesClear/mountain_small.png
+Animation MountainSmall         TexMountainSmall   			1    0
+Texture   TexMountainSmallHoriz images/fireRed/overworldTilesClear/mountain_small_horiz.png
+Animation MountainSmallHoriz    TexMountainSmallHoriz   	1    0
+Texture   TexHMSurf				images/fireRed/overworldTilesClear/hm_surf.png
+Animation HMSurf				TexHMSurf   	1    0
+Texture   TexBrownBg			images/fireRed/overworldTilesClear/custom_bg.png
+Animation BrownBg				TexBrownBg   	1    0
+Texture   TexHMSurf				images/fireRed/overworldTilesClear/hm_surf.png
+Animation HMSurf				TexHMSurf   	1    0
+Texture   TexSteps				images/fireRed/overworldTilesClear/steps.png
+Animation Steps					TexSteps   	1    0
+Texture   TexWater				images/fireRed/overworldTilesClear/water.png
+Animation Water					TexWater   	8    30
+Texture   TexCave				images/fireRed/overworldTilesClear/dark_entrance.png
+Animation CaveB					TexCave   	1    0

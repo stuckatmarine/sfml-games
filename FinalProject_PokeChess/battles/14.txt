@@ -1,0 +1,3 @@
+PokeVenusaurLeft 4 3
+PokeBulbasaurLeft 3 2
+PokeBulbasaurLeft 3 4

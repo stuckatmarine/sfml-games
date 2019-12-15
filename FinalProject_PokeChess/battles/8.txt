@@ -1,0 +1,4 @@
+PokeSquirtleLeft 3 5
+PokeSquirtleLeft 3 4
+PokeSquirtleLeft 3 3
+PokeSquirtleLeft 3 2

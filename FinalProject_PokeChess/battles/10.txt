@@ -1,0 +1,4 @@
+PokeCharmeleonLeft 5 5
+PokeCharmanderLeft 4 4
+PokeIvysaurLeft 5 0
+PokeBulbasaurLeft 4 1

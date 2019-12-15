@@ -1,0 +1,2 @@
+PokeCharmeleonLeft 3 5
+PokeIvysaurLeft 3 1

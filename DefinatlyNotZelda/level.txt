@@ -1,0 +1,153 @@
+Tile RockBL   0  0 13  0 1 1
+Tile RockBM   0  0 14  0 1 1
+Tile RockBM   0  0 15  0 1 1
+Tile RockBM   0  0 16  0 1 1
+Tile RockBM   0  0 17  0 1 1
+Tile RockBM   0  0 18  0 1 1
+Tile RockBM   0  0 19  0 1 1
+Tile RockBM   0  0 10  4 1 0
+Tile RockBM   0  0 10  6 1 0
+Tile RockBM   0  0 9  4 1 0
+Tile RockBM   0  0 9  7 1 0
+Tile RockBM   0  0 11  4 1 0
+Tile RockBM   0  0 11  6 1 1
+Tile RockBM   0  0 12  4 1 0
+Tile RockBM   0  0 12  6 1 1
+Tile RockBM   0  0 13  4 1 0
+Tile RockBM   0  0 13  6 1 1
+Tile RockBM   0  0 13  5 1 0
+NPC  Knight   0  0 12  5 0 0 Follow 4.7
+NPC  Knight   0  0 12  5 0 0 Follow 4.7
+Tile RockBM   0  0 8  4 1 0
+Tile RockBM   0  0 8  6 1 1
+Tile RockBM   0  0 7  4 1 0
+Tile RockBM   0  0 7  6 1 1
+Tile RockBM   0  0 6  4 1 0
+Tile RockBM   0  0 6  6 1 1
+Tile RockBM   0  0 5  4 1 0
+Tile RockBM   0  0 5  6 1 1
+Tile RockBM   0  0 4  4 1 0
+Tile RockBM   0  0 4  6 1 1
+Tile RockBM   0  0 3  4 1 0
+Tile RockBM   0  0 3  6 1 1
+Tile RockBM   0  0 2  4 1 0
+Tile RockBM   0  0 2  6 1 1
+Tile RockBM   0  0 1  4 1 0
+Tile RockBM   0  0 1  6 1 1
+Tile RockBM   0  0 0  4 1 0
+Tile RockBM   0  0 0  6 1 1
+Tile RockBM   0  0 -1  4 1 0
+Tile RockBM   0  0 -1  6 1 1
+Tile RockBM   0  0 -2  4 1 0
+Tile RockBM   0  0 -2  6 1 1
+Tile RockBM   0  0 -3  4 1 0
+Tile RockBM   0  0 -3  6 1 1
+Tile RockBM   0  0 -5  5 1 0
+Tile RockBM   0  0 -5  4 1 0
+Tile RockBM   0  0 -5  6 1 0
+Tile RockBM   0  0 -3  7 1 0
+Tile RockBM   0  0 -5  7 1 0
+Tile RockBM   0  0 -3  8 1 0
+Tile RockBM   0  0 -5  8 1 0
+Tile RockBM   0  0 -3  9 1 0
+Tile RockBM   0  0 -5  9 1 0
+Tile RockBM   0  0 -3  10 1 0
+Tile RockBM   0  0 -5  10 1 0
+Tile RockBM   0  0 -3  11 1 0
+Tile RockBM   0  0 -5  11 1 0
+Tile RockBM   0  0 -4  11 1 0
+NPC  Knight   0  0 -4  10 0 0 Follow 6
+NPC  Knight   0  0 -4  10 0 0 Follow 6
+NPC  Knight   0  0 -4  9 0 0 Follow 6
+NPC  Knight   0  0 -4  9 0 0 Follow 6
+Tile RockBM   0  0 -3  3 1 0
+Tile RockBM   0  0 -5  3 1 0
+Tile RockBM   0  0 -3  2 1 0
+Tile RockBM   0  0 -5  2 1 0
+Tile RockBM   0  0 -3  1 1 0
+Tile RockBM   0  0 -5  1 1 0
+Tile RockBM   0  0 -3  0 1 0
+Tile RockBM   0  0 -5  0 1 0
+Tile RockBM   0  0 -3  -1 1 1
+Tile RockBM   0  0 -5  -1 1 1
+Tile RockBM   0  0 -3  -2 1 1
+Tile RockBM   0  0 -5  -2 1 1
+Tile RockBM   0  0 -3  -3 1 1
+Tile RockBM   0  0 -5  -3 1 1
+Tile RockBM   0  0 -3  -4 1 1
+Tile RockBM   0  0 -5  -4 1 1
+Tile RockBM   0  0 -5  -5 1 1
+Tile RockBM   0  0 -3  -6 1 1
+Tile RockBM   0  0 -5  -6 1 1
+Tile RockBM   0  0 -4  -6 1 1
+Tile RockBM   0  0 -2  -6 1 1
+Tile RockBM   0  0 -2  -4 1 1
+Tile RockBM   0  0 -1  -6 1 1
+Tile RockBM   0  0 -1  -4 1 1
+Tile RockBM   0  0 0  -6 1 1
+Tile RockBM   0  0 0  -4 1 1
+Tile RockBM   0  0 1  -6 1 1
+Tile RockBM   0  0 1  -4 1 1
+Tile RockBM   0  0 2  -6 1 1
+Tile RockBM   0  0 2  -4 1 1
+Tile RockBM   0  0 3  -6 1 1
+Tile RockBM   0  0 3  -4 1 1
+Tile RockBM   0  0 4  -6 1 1
+Tile RockBM   0  0 4  -4 1 1
+Tile RockBM   0  0 5  -6 1 1
+Tile RockBM   0  0 5  -4 1 1
+Tile RockBM   0  0 6  -6 1 1
+Tile RockBM   0  0 6  -4 1 1
+Tile RockBM   0  0 7  -6 1 1
+Tile RockBM   0  0 7  -4 1 1
+Tile RockBM   0  0 8  -6 1 1
+Tile RockBM   0  0 8  -4 1 1
+Tile RockBM   0  0 9  -6 1 1
+Tile RockBM   0  0 9  -4 1 1
+
+
+Tile RockTL   1 0  13  1 1 1
+Tile RockTM   1 0  14  1 1 1
+Tile RockTR   1 0  15  1 1 1
+Tile RockTL   1 0  12  2 1 1
+Tile RockBM   1 0  13  2 1 1
+Tile RockBM   1 0  14  2 1 1
+Tile RockBM   1 0  15  2 1 1
+Tile RockTR   1 0  16  2 1 1
+Tile RockBL   1 0  12  3 1 1
+Tile RockBM   1 0  13  3 1 1
+Tile Black    1 0  14  3 0 0
+Tile RockBM   1 0  15  3 1 1
+Tile RockBR   1 0  16  3 1 1
+Tile WaterTL -1 0   2  2 1 0
+Tile WaterTM -1 0   3  2 1 0
+Tile WaterTR -1 0   4  2 1 0
+Tile WaterML -1 0   2  3 1 0
+Tile WaterMM -1 0   3  3 1 0
+Tile WaterMR -1 0   4  3 1 0
+Tile WaterML -1 0   2  4 1 0
+Tile WaterMM -1 0   3  4 1 0
+Tile WaterMR -1 0   4  4 1 0
+Tile WaterML -1 0   2  5 1 0
+Tile WaterMM -1 0   3  5 1 0
+Tile WaterMR -1 0   4  5 1 0
+Tile WaterML -1 0   2  6 1 0
+Tile WaterMM -1 0   3  6 1 0
+Tile WaterMR -1 0   4  6 1 0
+Tile WaterML -1 0   2  7 1 0
+Tile WaterMM -1 0   3  7 1 0
+Tile WaterMR -1 0   4  7 1 0
+Tile WaterBL -1 0   2  8 1 0
+Tile WaterBM -1 0   3  8 1 0
+Tile WaterBR -1 0   4  8 1 0
+NPC  Tektite -1 0   1  4 0 0 Follow 4
+
+NPC  Tektite -1 -1 1 4 0 0 Follow 5
+NPC  Tektite -1  0 4 0 0 0 Follow 5
+NPC  Tektite -1  1 1 4 0 0 Follow 5
+NPC  Tektite  0 -1 1 4 0 0 Follow 5
+NPC  Tektite  0  1 1 4 0 0 Follow 5
+NPC  Tektite  1  0 1 4 0 0 Follow 5
+NPC  Tektite  1  1 1 4 0 0 Follow 5
+
+Player 640 390 48 48 5.5

@@ -1,0 +1,3 @@
+PokeCharmeleonLeft 5 5
+PokeCharmanderLeft 3 3
+PokeCharmanderLeft 4 4

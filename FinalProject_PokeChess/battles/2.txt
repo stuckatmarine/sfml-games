@@ -1,0 +1,3 @@
+PokeBulbasaurLeft 4 0
+PokeCharmanderLeft 4 5
+PokeIvysaurLeft 4 1

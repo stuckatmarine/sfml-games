@@ -1,0 +1,4 @@
+PokeCharmeleonLeft 4 2
+PokeCharmeleonLeft 4 3
+PokeCharmanderLeft 3 3
+PokeCharmanderLeft 3 4
