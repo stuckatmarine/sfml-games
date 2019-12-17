@@ -2,4 +2,4 @@
 - ECS programming principles
 - SFML c++ graphics library
 # True to form overworld
-![](images/overworld.jpeg)
+![](images/overworld.JPG)
