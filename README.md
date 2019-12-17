@@ -17,6 +17,8 @@
 ![](images/gui.JPG)
 ![](images/ray.JPG)
 
+## Godmode... Press M to find level editor extra functionality
+
 # Previous assignments building on ECS principles
 ## Zelda Clone
 ![](images/zelda.JPG)
