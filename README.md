@@ -23,3 +23,5 @@
 ![](images/geo.JPG)
 
 ### Disclaimer for educational use. We do not own rights to the sprites, audio or ip.
+# SFML link to install liraries if needed
+https://www.sfml-dev.org/tutorials/2.5/start-linux.php
