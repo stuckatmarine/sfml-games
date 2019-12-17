@@ -1,6 +1,9 @@
 # Poke-Chess, CS 4300 final project
+
 - ECS programming principles
 - SFML c++ graphics library
+- Trailer: https://www.youtube.com/watch?v=yuDOjGQ_y8g&feature=youtu.be
+
 ## True to form overworld
 ![](images/overworld.JPG)
 
