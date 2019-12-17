@@ -1,4 +1,5 @@
 # Poke-Chess, CS 4300 final project
+## Collaboration with Andrew Nash https://github.com/andrewnash/comp4300
 
 - ECS programming principles
 - SFML c++ graphics library
